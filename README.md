@@ -1,7 +1,7 @@
 ## Hi there 👋
 👋 ¡Hola! Soy Miyo.
 
-👨‍💼 Ex-emprendedor (+13 años gestionando negocios) ➡️ 💻 ¡Ahora desarrollador en formación!
+👨‍💼 Emprendedor (+13 años gestionando negocios) ➡️ 💻 ¡Ahora desarrollador en formación!
 🎓 Estudiante de Lic. en Informática (UNPSJB) & Programador Full Stack Jr.
 🚀 Aprendiendo y construyendo con:
     - Backend: Java (Spring, JPA)
