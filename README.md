@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 ¡Hola! Soy Carlos.
+👋 ¡Hola! Soy Miyo.
 
 👨‍💼 Ex-emprendedor (+13 años gestionando negocios) ➡️ 💻 ¡Ahora desarrollador en formación!
 🎓 Estudiante de Lic. en Informática (UNPSJB) & Programador Full Stack Jr.
