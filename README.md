@@ -1,7 +1,7 @@
-<!-- Banner -->
+<!-- Banner 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/main/banners/git-banner.svg" alt="Miyo's Banner">
-</p>
+</p> -->
 
 <!-- Typing Effect -->
 <p align="center">
