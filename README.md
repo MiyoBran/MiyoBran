@@ -1,26 +1,54 @@
-## Hi there 👋
-👋 ¡Hola! Soy Miyo.
+# Hi there, I'm Miyo! 👋
 
-👨‍💼 Emprendedor (+13 años gestionando negocios) ➡️ 💻 ¡Ahora desarrollador en formación!
-🎓 Estudiante de Lic. en Informática (UNPSJB) & Programador Full Stack Jr.
-🚀 Aprendiendo y construyendo con:
-    - Backend: Java (Spring, JPA)
-    - Frontend: HTML, CSS, JavaScript, React
-    - BBDD: MySQL
-    - Cloud: Fundamentos de AWS
-💡 Interesado en: Ciencia de Datos, IA, Power BI y cómo la tecnología optimiza procesos.
-🌱 ¡Buscando proyectos para colaborar y seguir creciendo!
-<!--
-**MiyoBran/MiyoBran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **passionate developer-in-training** with a unique background in **entrepreneurship**.  
+With over **13 years of experience managing businesses**, I am now channeling my problem-solving skills and business acumen into the world of technology. I'm currently pursuing a **Bachelor's Degree in Computer Science (UNPSJB)** and am a recent graduate of a **Full Stack Jr. Programmer bootcamp**.
 
-Here are some ideas to get you started:
+My journey is driven by a fascination with how technology can be leveraged to **optimize processes** and **drive innovation**. I'm eager to contribute to projects that lie at the intersection of **business strategy** and **cutting-edge tech**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+Technologies I'm currently working with:
+
+- **Backend:** Java (Spring Boot, JPA)
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Databases:** MySQL
+- **Cloud:** Foundational knowledge of AWS
+
+---
+
+## 🌱 Currently Learning
+I'm constantly growing and currently focusing on:
+
+- **Oracle Next Education (ONE)** — Group 9 participant  
+- **Oracle Race To Certification** — preparing for official certification  
+- **Creando Capacidades Chubut** — various training paths in **Data Science**  
+- Expanding my knowledge in **AI**, **Machine Learning**, and **Power BI**
+- Deepening my understanding of Data Science and its practical applications.
+
+I'm always open to exploring new technologies and learning something new every day.
+
+---
+
+## 💡 Interests & Aspirations
+I’m particularly interested in opportunities where I can apply my technical and strategic background to:
+
+- Solve real-world problems
+- Optimize business workflows through software
+- Build smart data-driven solutions  
+- Contribute to meaningful, collaborative projects
+
+---
+
+## 🤝 Let’s Connect!
+I'm actively seeking opportunities to **collaborate**, **learn**, and **grow** as a developer.  
+If you’re looking for someone with a strong business mindset and a hunger for tech — I’d love to connect!
+
+- 📧 Email: [miyenbran@gmail.com](mailto:miyenbran@gmail.com)  
+- 💼 LinkedIn: [brandolino-carlos-miyen](https://www.linkedin.com/in/brandolino-carlos-miyen/)  
+- 🌐 Portfolio Blog: [miyobran.github.io](https://miyobran.github.io/)  
+- 💻 GitHub: [@MiyoBran](https://github.com/MiyoBran)
+
+---
+
+_“Learning by building” is my motto — let’s create something meaningful together!_
