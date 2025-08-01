@@ -83,5 +83,5 @@ I'm always open to new opportunities, projects, and tech conversations!
 ---
 
 <p align="center">
-  <i>“Learning by building” is my motto — let’s create something meaningful together!</i>
+  <i>“The most important words a man can say are, “I will do better.”“  ― Brandon Sanderson, Oathbringer</i>
 </p>
